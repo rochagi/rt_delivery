@@ -1,0 +1,22 @@
+const String mockReturnColeta = '''{
+    "statusRetorno": "00",
+    "clienteId": "3586",
+    "contratoId": "4801",
+    "coletaId": "1533547",
+    "dnaColeta": "0",
+    "responsavel": "GIOVANNA",
+    "dtHoraFimCol": "18/10/2024 15:16",
+    "dtHoraProcesso": "17/10/2024 15:19",
+    "distanciaAlvoRT": "1000",
+    "franquia": "BRI",
+    "nomeCliente": "NU PAGAMENTOS S.A.",
+    "tipoEncomenda": "documento",
+    "logradouro": "R JOAQUIM CABRAL DE MEDEIROS",
+    "numEnd": "79",
+    "complEnd": "",
+    "bairro": "Jardim Santa Deolinda",
+    "cidade": "Tapiratiba",
+    "uf": "SP",
+    "cep": "13760000",
+    "obs": ""
+}''';
